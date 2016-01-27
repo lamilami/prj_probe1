@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">probe1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="txt_ammo">60/8 AMMO</string>
+    <string name="txt_lives">12 LIVES</string>
+    <string name="itttttttttttttttttttt">itttttttttttttttttttt</string>
+    <string name="_id_progressbarblue">\@+id/ProgressBarBlue</string>
+    <string name="sos">SOS</string>
+    <string name="map">MAP</string>
+</resources>
